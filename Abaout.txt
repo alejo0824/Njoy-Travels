@@ -1,0 +1,3 @@
+Este proyecto se basa del diseño de https://w3layouts.com/template/njoy-travels-travel-category-bootstrap-responsive-web-template/, es decir, se baso en el diseño y se creo el código
+desde cero con el objetivo que fuera muy parecido al original. Las imagenes y el diseño son de All W3layouts. Se realizo de forma de aprendizaje más no como uso de proyecto
+real.
